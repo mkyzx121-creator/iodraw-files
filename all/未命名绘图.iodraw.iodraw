@@ -71,9 +71,9 @@
           <mxGeometry x="711" y="1083" width="99" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-18" value="趋势分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="1090" width="110" height="66" as="geometry" />
+          <mxGeometry x="852" y="1100" width="110" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-21" value="MySQL存储（持久化）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR7TBrVm0oeMdczaREZr-21" value="MySQL存储" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1010" y="1130" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-24" value="用户交互" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
