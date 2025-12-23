@@ -11,13 +11,13 @@
           <mxGeometry x="218" y="589" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-2" value="Schema推断" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="688" width="117" height="49" as="geometry" />
+          <mxGeometry x="170" y="688" width="117" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-3" value="类型转换" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="327" y="688" width="94" height="49" as="geometry" />
+          <mxGeometry x="300.5" y="688" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-4" value="数据验证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="471" y="688" width="124" height="49" as="geometry" />
+          <mxGeometry x="426" y="688" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-5" value="字段检查" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="760" width="94" height="49" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="702" y="787" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-8" value="缺失值处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="885" width="100" height="49" as="geometry" />
+          <mxGeometry x="272" y="870" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-9" value="异常值检测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="394.5" y="870" width="168" height="49" as="geometry" />
