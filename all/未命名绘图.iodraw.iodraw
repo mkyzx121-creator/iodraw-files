@@ -96,7 +96,7 @@
           <mxGeometry x="691" y="1034" width="99" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-18" value="趋势分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="1111.5" width="110" height="66" as="geometry" />
+          <mxGeometry x="810" y="1090" width="110" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-21" value="MySQL存储" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="1117" width="90" height="49" as="geometry" />
@@ -178,7 +178,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-20" value="结果处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="990" y="1000" width="124" height="49" as="geometry" />
+          <mxGeometry x="996" y="990" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-20" target="cR7TBrVm0oeMdczaREZr-23">
           <mxGeometry relative="1" as="geometry">
