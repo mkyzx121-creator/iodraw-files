@@ -102,9 +102,6 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-18" value="趋势分析（时间维度、情感维度）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1173" y="1083" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-19" value="相关性分析（特征关联）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1445" y="1092" width="206" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-20" value="结果处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1701" y="1092" width="124" height="49" as="geometry" />
         </mxCell>
@@ -250,11 +247,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-14" target="cR7TBrVm0oeMdczaREZr-19">
+        <mxCell id="cR7TBrVm0oeMdczaREZr-45" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1548" y="1058" />
             </Array>
+            <mxPoint x="1548" y="1092" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-14" target="cR7TBrVm0oeMdczaREZr-20">
