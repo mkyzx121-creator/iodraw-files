@@ -40,8 +40,10 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-11" value="特征工程" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="731" y="885" width="89" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-12" target="cR7TBrVm0oeMdczaREZr-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cR7TBrVm0oeMdczaREZr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="728" y="970" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-12" value="分布式计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="885" width="120" height="49" as="geometry" />
@@ -50,7 +52,7 @@
           <mxGeometry x="636" y="960" width="184" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-14" value="多维度分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1335" y="984" width="140" height="49" as="geometry" />
+          <mxGeometry x="960" y="960" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-15" value="基础统计（均值、方差、分位数）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="427" y="1083" width="222" height="66" as="geometry" />
