@@ -31,7 +31,7 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-8" value="缺失值处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="885" width="100" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-9" value="异常值检测（IQR/Z-score）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR7TBrVm0oeMdczaREZr-9" value="异常值检测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="885" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-10" value="数据过滤（无效记录）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
