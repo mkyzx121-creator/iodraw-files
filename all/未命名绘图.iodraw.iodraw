@@ -55,6 +55,9 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-12" target="cR7TBrVm0oeMdczaREZr-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cR7TBrVm0oeMdczaREZr-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-12" target="cR7TBrVm0oeMdczaREZr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-12" value="分布式计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="940" width="120" height="49" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-14" value="多维度分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="950" width="140" height="49" as="geometry" />
+          <mxGeometry x="850" y="940" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-15" value="基础统计" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="1034" width="103" height="66" as="geometry" />
@@ -159,7 +162,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-20" value="结果处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="1034" width="124" height="49" as="geometry" />
+          <mxGeometry x="990" y="1000" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-20" target="cR7TBrVm0oeMdczaREZr-23">
           <mxGeometry relative="1" as="geometry">
