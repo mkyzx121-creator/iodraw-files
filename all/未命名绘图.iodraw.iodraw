@@ -207,14 +207,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1531" y="1175" />
-            </Array>
-            <mxPoint x="1351.5" y="1121.4999999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.58;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-20" target="cR7TBrVm0oeMdczaREZr-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -263,7 +255,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-23" value="Web展示（Streamlit）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1490" y="1138.5" width="191" height="49" as="geometry" />
+          <mxGeometry x="1280" y="1200" width="191" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
