@@ -76,7 +76,7 @@
           <mxGeometry x="1380" y="1220" width="110" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-26" value="数据下载" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2024" y="1316" width="94" height="49" as="geometry" />
+          <mxGeometry x="1560" y="1220" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-0" target="cR7TBrVm0oeMdczaREZr-1">
           <mxGeometry relative="1" as="geometry">
@@ -204,20 +204,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1276" y="1175" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-24" target="cR7TBrVm0oeMdczaREZr-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1919" y="1291" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-24" target="cR7TBrVm0oeMdczaREZr-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2071" y="1291" />
             </Array>
           </mxGeometry>
         </mxCell>
