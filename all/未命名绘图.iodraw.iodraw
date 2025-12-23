@@ -29,7 +29,7 @@
           <mxGeometry x="702" y="787" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-8" value="缺失值处理（中位数填充）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="885" width="222" height="49" as="geometry" />
+          <mxGeometry x="200" y="885" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-9" value="异常值检测（IQR/Z-score）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="472" y="885" width="228" height="49" as="geometry" />
@@ -254,9 +254,6 @@
               <mxPoint x="2071" y="1291" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-8" target="cR7TBrVm0oeMdczaREZr-8">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
