@@ -54,8 +54,8 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-14" value="多维度分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="960" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-15" value="基础统计（均值、方差、分位数）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="427" y="1083" width="222" height="66" as="geometry" />
+        <mxCell id="cR7TBrVm0oeMdczaREZr-15" value="基础统计" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="427" y="1083" width="103" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-16" value="分类别分析（类别统计、对比）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="699" y="1083" width="222" height="66" as="geometry" />
