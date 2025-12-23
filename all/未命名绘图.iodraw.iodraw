@@ -60,7 +60,7 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-16" value="分类别分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="1083" width="100" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="cR7TBrVm0oeMdczaREZr-17" value="排名计算（Top N、多标准排名）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cR7TBrVm0oeMdczaREZr-17" value="排名计算" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="711" y="1083" width="169" height="66" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-18" value="趋势分析（时间维度、情感维度）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
