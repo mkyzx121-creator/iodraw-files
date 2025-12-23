@@ -20,10 +20,10 @@
           <mxGeometry x="471" y="688" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-5" value="字段检查" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="787" width="94" height="49" as="geometry" />
+          <mxGeometry x="400" y="760" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-6" value="质量评估" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="558" y="787" width="94" height="49" as="geometry" />
+          <mxGeometry x="550" y="760" width="94" height="49" as="geometry" />
         </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-7" value="数据预处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="702" y="787" width="140" height="49" as="geometry" />
