@@ -89,6 +89,9 @@
         <mxCell id="cR7TBrVm0oeMdczaREZr-12" value="分布式计算" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="940" width="120" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="vdvfd0gH2qwaD6zqSZzi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cR7TBrVm0oeMdczaREZr-13" target="vdvfd0gH2qwaD6zqSZzi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cR7TBrVm0oeMdczaREZr-13" value="Spark DataFrame操作" style="rounded=1;arcSize=20;strokeWidth=2" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="378.5" y="940" width="184" height="49" as="geometry" />
         </mxCell>
@@ -164,7 +167,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vdvfd0gH2qwaD6zqSZzi-4" value="模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="940" width="80" height="40" as="geometry" />
+          <mxGeometry x="250" y="944.5" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
